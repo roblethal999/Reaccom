@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3438" started-at="2019-01-16T16:24:40Z" finished-at="2019-01-16T16:24:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3438" started-at="2019-01-16T16:24:40Z" finished-at="2019-01-16T16:24:44Z">
+      <class name="com.training.automation.test.DotcomTests">
+        <test-method status="PASS" signature="beforeSuite(java.lang.String)[pri:0, instance:com.training.automation.test.DotcomTests@42d80b78]" name="beforeSuite" is-config="true" duration-ms="12394" started-at="2019-01-16T11:24:28Z" finished-at="2019-01-16T11:24:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iexplore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="testWikiHome()[pri:0, instance:com.training.automation.test.DotcomTests@42d80b78]" name="testWikiHome" duration-ms="3419" started-at="2019-01-16T11:24:40Z" finished-at="2019-01-16T11:24:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWikiHome -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.training.automation.test.DotcomTests@42d80b78]" name="afterSuite" is-config="true" duration-ms="914" started-at="2019-01-16T11:24:44Z" finished-at="2019-01-16T11:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.training.automation.test.DotcomTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
